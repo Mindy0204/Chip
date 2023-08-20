@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chip</string>
+    <string name="text_no_result">There\'s no result containing “%1$s”</string>\
+    <string name="character_gender">Gender: %1$s</string>
+    <string name="character_species">Species: %1$s</string>
+</resources>

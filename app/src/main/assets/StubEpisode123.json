@@ -1,0 +1,460 @@
+[
+  {
+    "id": "1",
+    "name": "Pilot",
+    "episode": "S01E01",
+    "air_date": "December 2, 2013",
+    "characters": [
+      {
+        "id": "1",
+        "name": "Rick Sanchez",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+      },
+      {
+        "id": "2",
+        "name": "Morty Smith",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+      },
+      {
+        "id": "35",
+        "name": "Bepisian",
+        "gender": "unknown",
+        "species": "Alien",
+        "image": "https://rickandmortyapi.com/api/character/avatar/35.jpeg"
+      },
+      {
+        "id": "38",
+        "name": "Beth Smith",
+        "gender": "Female",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+      },
+      {
+        "id": "62",
+        "name": "Canklanker Thom",
+        "gender": "Male",
+        "species": "Alien",
+        "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+      },
+      {
+        "id": "92",
+        "name": "Davin",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/92.jpeg"
+      },
+      {
+        "id": "127",
+        "name": "Frank Palicky",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/127.jpeg"
+      },
+      {
+        "id": "144",
+        "name": "Glenn",
+        "gender": "Male",
+        "species": "Alien",
+        "image": "https://rickandmortyapi.com/api/character/avatar/144.jpeg"
+      },
+      {
+        "id": "158",
+        "name": "Hookah Alien",
+        "gender": "unknown",
+        "species": "Alien",
+        "image": "https://rickandmortyapi.com/api/character/avatar/158.jpeg"
+      },
+      {
+        "id": "175",
+        "name": "Jerry Smith",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg"
+      },
+      {
+        "id": "179",
+        "name": "Jessica",
+        "gender": "Female",
+        "species": "Cronenberg",
+        "image": "https://rickandmortyapi.com/api/character/avatar/179.jpeg"
+      },
+      {
+        "id": "181",
+        "name": "Jessica's Friend",
+        "gender": "Female",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/181.jpeg"
+      },
+      {
+        "id": "239",
+        "name": "Mr. Goldenfold",
+        "gender": "Male",
+        "species": "Cronenberg",
+        "image": "https://rickandmortyapi.com/api/character/avatar/239.jpeg"
+      },
+      {
+        "id": "249",
+        "name": "Mrs. Sanchez",
+        "gender": "Female",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/249.jpeg"
+      },
+      {
+        "id": "271",
+        "name": "Principal Vagina",
+        "gender": "Male",
+        "species": "Cronenberg",
+        "image": "https://rickandmortyapi.com/api/character/avatar/271.jpeg"
+      },
+      {
+        "id": "338",
+        "name": "Summer Smith",
+        "gender": "Female",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/338.jpeg"
+      },
+      {
+        "id": "394",
+        "name": "Davin",
+        "gender": "Male",
+        "species": "Cronenberg",
+        "image": "https://rickandmortyapi.com/api/character/avatar/394.jpeg"
+      },
+      {
+        "id": "395",
+        "name": "Greebybobe",
+        "gender": "unknown",
+        "species": "Alien",
+        "image": "https://rickandmortyapi.com/api/character/avatar/395.jpeg"
+      },
+      {
+        "id": "435",
+        "name": "Pripudlian",
+        "gender": "unknown",
+        "species": "Alien",
+        "image": "https://rickandmortyapi.com/api/character/avatar/435.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Lawnmower Dog",
+    "episode": "S01E02",
+    "air_date": "December 9, 2013",
+    "characters": [
+      {
+        "id": "1",
+        "name": "Rick Sanchez",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+      },
+      {
+        "id": "2",
+        "name": "Morty Smith",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+      },
+      {
+        "id": "38",
+        "name": "Beth Smith",
+        "gender": "Female",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+      },
+      {
+        "id": "46",
+        "name": "Bill",
+        "gender": "Male",
+        "species": "Animal",
+        "image": "https://rickandmortyapi.com/api/character/avatar/46.jpeg"
+      },
+      {
+        "id": "63",
+        "name": "Centaur",
+        "gender": "Male",
+        "species": "Mythological Creature",
+        "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+      },
+      {
+        "id": "80",
+        "name": "Creepy Little Girl",
+        "gender": "Female",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/80.jpeg"
+      },
+      {
+        "id": "175",
+        "name": "Jerry Smith",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg"
+      },
+      {
+        "id": "221",
+        "name": "Melissa",
+        "gender": "Female",
+        "species": "Mythological Creature",
+        "image": "https://rickandmortyapi.com/api/character/avatar/221.jpeg"
+      },
+      {
+        "id": "239",
+        "name": "Mr. Goldenfold",
+        "gender": "Male",
+        "species": "Cronenberg",
+        "image": "https://rickandmortyapi.com/api/character/avatar/239.jpeg"
+      },
+      {
+        "id": "246",
+        "name": "Mrs. Pancakes",
+        "gender": "Female",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/246.jpeg"
+      },
+      {
+        "id": "304",
+        "name": "Scary Brandon",
+        "gender": "Male",
+        "species": "Mythological Creature",
+        "image": "https://rickandmortyapi.com/api/character/avatar/304.jpeg"
+      },
+      {
+        "id": "305",
+        "name": "Scary Glenn",
+        "gender": "Male",
+        "species": "Mythological Creature",
+        "image": "https://rickandmortyapi.com/api/character/avatar/305.jpeg"
+      },
+      {
+        "id": "306",
+        "name": "Scary Terry",
+        "gender": "Male",
+        "species": "Mythological Creature",
+        "image": "https://rickandmortyapi.com/api/character/avatar/306.jpeg"
+      },
+      {
+        "id": "329",
+        "name": "Snuffles (Snowball)",
+        "gender": "Male",
+        "species": "Animal",
+        "image": "https://rickandmortyapi.com/api/character/avatar/329.jpeg"
+      },
+      {
+        "id": "338",
+        "name": "Summer Smith",
+        "gender": "Female",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/338.jpeg"
+      },
+      {
+        "id": "396",
+        "name": "Scary Teacher",
+        "gender": "Male",
+        "species": "Mythological Creature",
+        "image": "https://rickandmortyapi.com/api/character/avatar/396.jpeg"
+      },
+      {
+        "id": "397",
+        "name": "Fido",
+        "gender": "Male",
+        "species": "Animal",
+        "image": "https://rickandmortyapi.com/api/character/avatar/397.jpeg"
+      },
+      {
+        "id": "398",
+        "name": "Accountant dog",
+        "gender": "Male",
+        "species": "Animal",
+        "image": "https://rickandmortyapi.com/api/character/avatar/398.jpeg"
+      },
+      {
+        "id": "405",
+        "name": "Trunkphobic suspenders guy",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/405.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Anatomy Park",
+    "episode": "S01E03",
+    "air_date": "December 16, 2013",
+    "characters": [
+      {
+        "id": "1",
+        "name": "Rick Sanchez",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+      },
+      {
+        "id": "2",
+        "name": "Morty Smith",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+      },
+      {
+        "id": "12",
+        "name": "Alexander",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/12.jpeg"
+      },
+      {
+        "id": "17",
+        "name": "Annie",
+        "gender": "Female",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+      },
+      {
+        "id": "38",
+        "name": "Beth Smith",
+        "gender": "Female",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/38.jpeg"
+      },
+      {
+        "id": "45",
+        "name": "Bill",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/45.jpeg"
+      },
+      {
+        "id": "96",
+        "name": "Tuberculosis",
+        "gender": "unknown",
+        "species": "Disease",
+        "image": "https://rickandmortyapi.com/api/character/avatar/96.jpeg"
+      },
+      {
+        "id": "97",
+        "name": "Gonorrhea",
+        "gender": "unknown",
+        "species": "Disease",
+        "image": "https://rickandmortyapi.com/api/character/avatar/97.jpeg"
+      },
+      {
+        "id": "98",
+        "name": "Hepatitis A",
+        "gender": "unknown",
+        "species": "Disease",
+        "image": "https://rickandmortyapi.com/api/character/avatar/98.jpeg"
+      },
+      {
+        "id": "99",
+        "name": "Hepatitis C",
+        "gender": "unknown",
+        "species": "Disease",
+        "image": "https://rickandmortyapi.com/api/character/avatar/99.jpeg"
+      },
+      {
+        "id": "100",
+        "name": "Bubonic Plague",
+        "gender": "unknown",
+        "species": "Disease",
+        "image": "https://rickandmortyapi.com/api/character/avatar/100.jpeg"
+      },
+      {
+        "id": "101",
+        "name": "E. Coli",
+        "gender": "unknown",
+        "species": "Disease",
+        "image": "https://rickandmortyapi.com/api/character/avatar/101.jpeg"
+      },
+      {
+        "id": "108",
+        "name": "Dr. Xenon Bloom",
+        "gender": "Male",
+        "species": "Humanoid",
+        "image": "https://rickandmortyapi.com/api/character/avatar/108.jpeg"
+      },
+      {
+        "id": "112",
+        "name": "Eric McMan",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/112.jpeg"
+      },
+      {
+        "id": "114",
+        "name": "Ethan",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/114.jpeg"
+      },
+      {
+        "id": "169",
+        "name": "Jacob",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/169.jpeg"
+      },
+      {
+        "id": "175",
+        "name": "Jerry Smith",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/175.jpeg"
+      },
+      {
+        "id": "186",
+        "name": "Joyce Smith",
+        "gender": "Female",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/186.jpeg"
+      },
+      {
+        "id": "201",
+        "name": "Leonard Smith",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/201.jpeg"
+      },
+      {
+        "id": "268",
+        "name": "Poncho",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/268.jpeg"
+      },
+      {
+        "id": "300",
+        "name": "Roger",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/300.jpeg"
+      },
+      {
+        "id": "302",
+        "name": "Ruben",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/302.jpeg"
+      },
+      {
+        "id": "338",
+        "name": "Summer Smith",
+        "gender": "Female",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/338.jpeg"
+      },
+      {
+        "id": "356",
+        "name": "Tom Randolph",
+        "gender": "Male",
+        "species": "Human",
+        "image": "https://rickandmortyapi.com/api/character/avatar/356.jpeg"
+      }
+    ]
+  }
+]

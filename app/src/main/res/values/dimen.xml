@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_radius_tag">12dp</dimen>
+    <dimen name="corner_radius_dialog">12dp</dimen>
+    <dimen name="padding_16dp">16dp</dimen>
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_4dp">4dp</dimen>
+    <dimen name="text_line_space">8dp</dimen>
+    <dimen name="iv_character_size">250dp</dimen>
+    <dimen name="text_size_title">18sp</dimen>
+    <dimen name="text_size_subtitle">16sp</dimen>
+</resources>
